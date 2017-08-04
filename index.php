@@ -33,7 +33,7 @@ if(!isset($_POST['guess'])){
 		<button type="submit" name="submit" value="submit" id="submit">Submit</button>
 	</form><br>
 	<hr>
-	<h3>Here is some tips for you:</h3>
+	<h3>Here is a some tips for you:</h3>
 	<ul>
 		<li>The number is an Integer</li>
 		<li>The number has only two digits</li>
